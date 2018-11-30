@@ -26,9 +26,11 @@ In order to secure HPB with a Ledger Nano S, you will need:
 # ACCESS YOUR ACCOUNTS USING YOUR WEB BROWSER
 1. Visit [https://myhpbwallet.com](https://myhpbwallet.com) in your browser
 2. Make sure your Ledger Nano S is connected and unlocked, and that you’ve opened the HPB app
-3. Click on the button that says **Connect to Ledger Wallet**
-4. An address selection modal will appear
-5. Select an address to interact with. Usually this will be the first one, but you can use any of them
-6. Click the **Unlock your wallet button**
-7. You should now see a screen that shows your account address and balance.
-8. If you want to verify your address, then click the **Display address on Ledger link**. Your device should now show you the same address you see on your browser screen.
+3. Select what you want to do, such as View Wallet Info
+4. Select Ledger Wallet as the way to access your wallet
+5. Click on the button that says **Connect to Ledger Wallet**
+6. An address selection modal will appear
+7. Select an address to interact with. Usually this will be the first one, but you can use any of them
+8. Click the **Unlock your wallet button**
+9. You should now see a screen that shows your account address and balance.
+10. If you want to verify your address, then click the **Display address on Ledger link**. Your device should now show you the same address you see on your browser screen.
