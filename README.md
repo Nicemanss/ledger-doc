@@ -18,6 +18,7 @@ In order to secure HPB with a Ledger Nano S, you will need:
 
 3. If asked, allow the manager on your device by pressing the right button
 4. Find Ethereum in the app catalog, since the HPB app requires it
+![alt text](https://github.com/Nicemanss/ledger-doc/blob/master/images/AppManager.png "App Manager")
 5. Click the Install button of the app
 * An installation window appears
 * Your device will display Processing...
