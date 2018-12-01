@@ -40,16 +40,19 @@ By following the steps below, you will find your public address which will allow
 10. By clicking the **Display address on Ledger** link your Ledger device will show you the same address you see in your browser.
 
 # TRANSFER HPB ASSETS
-1.
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. Make sure you verify transaction details on the device display, before confirming and signing it.
+1. Visit [https://myhpbwallet.com](https://myhpbwallet.com) in your browser
+2. Make sure your Ledger device is connected to your computer, unlocked, and that the HPB app is opened
+3. Select Send HPB on the website
+4. Select Ledger Wallet as the way to access your wallet
+5. Click on the button that says **Connect to Ledger Wallet**
+6. A window showing addresses to interact with is shown
+7. Select an address to interact with
+8. Click the **Unlock your wallet** button
+9. Input the amount of HPB to send as well as the Address to send them to
+10. Click the **Generate Transaction** button
+11. **Verify transaction details on the Ledger device display, before confirming and signing it.**
+12. Click the **Send Transaction** button
+13. Click the **Yes. I am sure! Make transaction.** button if all looks good.
 
 
 # SUPPORT
