@@ -9,7 +9,7 @@ You will need the following in order to secure your HPB assets with a Ledger dev
 * A web browser such as [Google Chrome](https://www.google.com/chrome/)
 
 
-# INSTALLING THE HPB APP ON YOUR LEDGER DEVICE USING LEDGER LIVE
+# INSTALLING THE HPB APP ON YOUR LEDGER DEVICE
 1. Open Ledger Live, and go to the **Manager** section
 ![alt text](https://github.com/Nicemanss/ledger-doc/blob/master/images/LedgerLive.png "Ledger Live Manager")
 
