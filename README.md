@@ -35,7 +35,7 @@ By following the steps below, you will find your public address which will allow
 5. Click on the button that says **Connect to Ledger Wallet**
 6. A window showing addresses to interact with is shown
 7. Select an address to interact with
-8. On your Ledger device, click the **Unlock your wallet** button
+8. Click the **Unlock your wallet** button
 9. You will now see a window that displays your account address and balance.
 10. By clicking the **Display address on Ledger** link your Ledger device will show you the same address you see in your browser.
 
