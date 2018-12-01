@@ -54,7 +54,11 @@ By following the steps below, you will find your public address which will allow
 
 # SUPPORT
 Email: [hpb@hpb.io](mailto:hpb@hpb.io)
+
 Telegram: [http://t.me/hpbglobal](http://t.me/hpbglobal)
+
 Reddit: [https://www.reddit.com/r/HPB_Global/](https://www.reddit.com/r/HPB_Global/)
+
 Facebook: [https://www.facebook.com/HPBGlobal/](https://www.facebook.com/HPBGlobal/)
+
 Twitter: [https://twitter.com/HPB_Global](https://twitter.com/HPB_Global)
