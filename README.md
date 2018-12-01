@@ -25,9 +25,8 @@ In order to secure HPB with a Ledger Nano S, you will need:
 * The app installation is confirmed
 6. Repeat steps 4 and 5 for the HPB app.
 
-> A quick note on addresses: Your Ledger Nano S will have generated a large number of private keys for you, each of which is identified by a public address. These keys and addresses are deterministic; that is, they'll be the same every time you use the device (or at least until you reset it and change your PIN). The public addresses, like most addresses in the HPB network, are long strings of seemingly random numbers and letters preceded by 0x. You can think of them like bank account numbers — except, unlike bank accounts, there is no personal data associated with them. Proof of ownership is established by the fact that you have possession of the Ledger Nano S and know its PIN.
 
-# VIEW HPBB WALLET INFORMATION
+# VIEW HPB WALLET INFORMATION
 By following the steps below, you will find your public address which will allow you to receive HPB assets, as well as being able to see how many HPB assets you own.
 1. Visit [https://myhpbwallet.com](https://myhpbwallet.com) in your browser
 2. Make sure your Ledger Nano S is connected and unlocked, and that you’ve opened the HPB app
