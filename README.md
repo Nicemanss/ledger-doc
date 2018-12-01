@@ -1,12 +1,12 @@
 # INTRODUCTION
-With the Ledger HPB app, you can securely store your HPB assets in a hardware wallet. By using a Ledger Hardware Wallet, only you can see your private keys through the OLED screen of your device. The private keys are also not accessible through your personal computer and can not be copied.
+With the Ledger HPB app, you securely store your HPB assets in a Ledger Hardware Wallet. By using a Ledger Hardware Wallet, you don't run into the risk of someone knowing your private keys as the private keys are stored on the Ledger Hardware Wallet and not accessible through your personal computer and thus can not be copied by a third party.
 
 # BEFORE YOU START
 In order to secure HPB with a Ledger Nano S, you will need:
 
 * An [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793) Ledger Nano S with the latest firmware [installed](https://support.ledgerwallet.com/hc/en-us/articles/360002731113)
 * Ledger Live [installed and ready to use](https://support.ledgerwallet.com/hc/en-us/articles/360006395233)
-* Google Chrome [installed](https://www.google.com/chrome/)
+* A web browser such as [Google Chrome](https://www.google.com/chrome/)
 
 
 # INSTALL THE HPB APP ON YOUR LEDGER NANO S USING LEDGER LIVE
