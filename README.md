@@ -28,7 +28,7 @@ You will need the following in order to secure your HPB assets with a Ledger dev
 
 # VIEW HPB WALLET INFORMATION
 By following the steps below, you will find your public address which will allow you to receive HPB assets, as well as being able to see how many HPB assets you own.
-1. Visit [https://myhpbwallet.com](https://myhpbwallet.com) in your browser
+1. Visit a Ledger device supported web wallet in your browser
 2. Make sure your Ledger device is connected to your computer, unlocked, and that the HPB app is opened
 3. Select View Wallet Info on the website
 4. Select Ledger Wallet as the way to access your wallet
@@ -40,7 +40,7 @@ By following the steps below, you will find your public address which will allow
 10. By clicking the **Display address on Ledger** link your Ledger device will show you the same address you see in your browser.
 
 # TRANSFER HPB ASSETS
-1. Visit [https://myhpbwallet.com](https://myhpbwallet.com) in your browser
+1. Visit a Ledger device supported web wallet in your browser
 2. Make sure your Ledger device is connected to your computer, unlocked, and that the HPB app is opened
 3. Select Send HPB on the website
 4. Select Ledger Wallet as the way to access your wallet
