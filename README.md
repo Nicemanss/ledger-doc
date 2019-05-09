@@ -6,8 +6,7 @@ You will need the following in order to secure your HPB assets with a Ledger dev
 
 * An [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793) Ledger Nano S with the latest firmware [installed](https://support.ledgerwallet.com/hc/en-us/articles/360002731113)
 * Ledger Live [installed and ready to use](https://support.ledgerwallet.com/hc/en-us/articles/360006395233)
-* A web browser such as [Brave](https://brave.com/) or [Opera](https://www.opera.com/) ( [Google Chrome](https://www.google.com/chrome/) support may be lacking due to having removed U2F: https://support.ledger.com/hc/en-us/articles/360018810413-U2F-timeout-in-Chrome-browser )
-
+* A web browser supporting U2F such as [Google Chrome](https://www.google.com/chrome/)
 
 # INSTALLING THE HPB APP ON YOUR LEDGER DEVICE
 1. Open Ledger Live, and go to the **Manager** section
