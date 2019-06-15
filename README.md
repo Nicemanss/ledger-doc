@@ -16,7 +16,7 @@ You will need the following in order to secure your HPB assets with a Ledger dev
 ![alt text](https://github.com/Nicemanss/ledger-doc/blob/master/images/AllowLedger.png "Connect Device")
 
 3. Give Ledger Live permissions to access your Ledger device by pressing the **right button** on your Ledger device 
-4. Because HPB got dependencies to the ETH app, you need to first find the ETH app in the Manager
+4. In order to save storage space on Ledger Nano S (which has got a tiny amount of storage for applications compared to Ledger Nano X), Ledger deploys Ethereum as a "main" application all other coins that are derived from Ethereum then create apps that are tiny in comparisment as all of them utilize the code inside the ETH app. Through this design, Ledger Nano S can store many more coins than it normally would be able to, but at the same time it means that in order to install the HPB app you must first install the ETH app in the Manager, just as you would with any other coin derived from Ethereum.
 ![alt text](https://github.com/Nicemanss/ledger-doc/blob/master/images/AppManager.png "App Manager")
 5. Click the Install button next to the ETH app.
 * You will now see an installation window
